@@ -1,2 +1,2 @@
 # GPT_Divan
-This repo is trying to implement such an idea of implementing gpt transformer to write persian poems  
+This repo is related to GenAI Course Assignment which i am trying to implement such an idea of implementing GPT model to write persian poems  
